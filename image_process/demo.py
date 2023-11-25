@@ -27,7 +27,7 @@ if __name__ == '__main__':
         imageSize = int(sheet[f'D{row}'].value.split('x')[0])
 
         index = row
-        image = Image.open(f"./original2/{index}.jpg")
+        image = Image.open(f"./original/{index}.jpg")
         image = ChangeImageShape(image, imageSize)
         image = MakeCircleImage(image)
         image.save(f'../res/raw-assets/{imageDir}/{imageFileName}')
