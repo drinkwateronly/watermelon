@@ -18,7 +18,7 @@
 
 ### 自动处理
 
-原本水果图片文件在`res/raw-assets`的位置、图片文件名等信息已按水果尺寸从小到大记录到`image_process/info.xlsx`中，具体如下。例如樱桃图片文件为`res/raw-assets/9c/0cbb3dbb-2a85-42a5-be21-9839611e5af7.png`。
+原本水果图片文件在`res/raw-assets`的位置、图片文件名等信息已按水果尺寸从小到大记录到`image_process/info.xlsx`中，具体如下。例如樱桃图片文件为`res/raw-assets/0c/0cbb3dbb-2a85-42a5-be21-9839611e5af7.png`。
 
 ![image-20231125104727166](https://raw.githubusercontent.com/drinkwateronly/Image-Host/main/iimage/image-20231125104727166.png)
 
