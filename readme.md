@@ -34,7 +34,7 @@
 
 ## 本地预览
 
-- 下载并安装Nod
+- 下载并安装Node
 
   http://nodejs.cn/download/
 
@@ -50,7 +50,7 @@
   npm i -g serve
   ```
 
-- 从游戏文件夹进入命令行，启动serve
+- 从合成大西瓜文件夹进入命令行，启动serve
 
   ```bash
   serve
