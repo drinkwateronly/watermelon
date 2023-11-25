@@ -22,7 +22,7 @@
 
 ![image-20231125104727166](https://raw.githubusercontent.com/drinkwateronly/Image-Host/main/iimage/image-20231125104727166.png)
 
-定制水果图片为想要的图片，则需要将要定制的11张图片（对应11种水果）放到`image_process/origin`，并按水果尺寸从小到大的顺序命名为`1.jpg`, `2.jpg`..., `11.jpg`。
+定制水果图片为想要的图片，则需要将要定制的11张图片（对应11种水果）放到`image_process/original`，并按水果尺寸从小到大的顺序命名为`1.jpg`, `2.jpg`..., `11.jpg`。
 
 **注意，这些定制图片的尺寸最好是近似正方形，以免在后续图片处理中的缩放操作导致图片被拉伸，效果变差。**
 
